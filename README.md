@@ -143,8 +143,3 @@
 <br>
 <br>
 
-## A Snake Eating my Contributions Graph 
-
-<p align = "center"> 
-  <img src = "https://github.com/RocioAguirreC/RocioAguirreC/blob/main/.github/workflows/snake.yml?sanitize=true" alt = "Snake Game"/> 
-  </p>
