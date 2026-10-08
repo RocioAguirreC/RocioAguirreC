@@ -1,145 +1,201 @@
-<h1 align="center">Hi, I'm Rocio Aguirre Cerullo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+<div align="center">
 
-<p align="center"> 
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=University+Technical+Degree+in+Programming+Student;Expected+Graduation:+December+2025;Freelance+QA+Tester+(uTest);Administrative+Technician;Fluent+in+English+and+Spanish" alt="Typing SVG" />
-  </a> 
-</p> 
+# Hi, I'm Rocío Aguirre Cerullo 👋
 
-<br> 
+### Agile IT Project Manager · Product Owner · QA-minded
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=RocioAguirreC&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile Views" height=25px, width=160px/> 
-  <a href = "https://commits.top/argentina.html" target="_blank"> 
-    <img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Commit Statistics Placeholder" target="_blank" height=25px, width=250px/> 
-  </a> 
-</p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=900&color=2F80ED&center=true&vCenter=true&width=620&lines=I+turn+complex+mandates+into+shippable+software;Scrum+%2F+Kanban+%C2%B7+Discovery+%C2%B7+Delivery+%C2%B7+QA;15%2B+years+bridging+tech%2C+business+%26+public+sector;Co-Founder+%26+IT+PM+%40+Soulware" alt="Typing SVG" /></a>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<a href="https://www.linkedin.com/in/rocio-aguirre-cerullo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rocio.aguirre.cerullo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Mendoza,_AR-Remote_friendly-2F80ED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Open_to-PM_%2F_PO_roles-2EA043?style=for-the-badge" alt="Open to PM / PO roles" />
 
-<picture> 
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
-</picture>
+🇬🇧 English · 🇦🇷 [Leer en español ↓](#-en-español)
 
-<br><br>
+</div>
 
-:school: I am a student at **UTN-FRSR** pursuing a **University Technical Degree in Programming** (Expected graduation: December 2025).
-:briefcase: I am an experienced freelance **QA Tester (uTest)** since 2018, specializing in mobile app and web development testing and meticulous bug reporting.
-:scroll: I have a background as a **Technician in Business Administration** (graduated December 2019).
-:computer: I am highly familiar with **agile methodologies (Scrum)**.
-:globe_with_meridians: I am **fully proficient in English** (IELTS Overall Band Score 6.5 - CEFR Level B2) and my mother tongue is **Spanish (Native)**.
-:thinking: I'm currently open to new freelance **testing** or **development opportunities**.
-:link: Feel free to check out **MY RESUME** or my **LINKEDIN PROFILE** [here](https://www.linkedin.com/in/rocio-aguirre-cerullo/).
+---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Certifications
+## 🧭 About me
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Scrum%20Fundamentals%20Certified%20(SFC)-40B4E5?style=plastic&logo=scrumalliance&logoColor=white" alt="Scrum Fundamentals Certified" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Testing-2F7094?style=plastic&logo=pytest&logoColor=white" alt="Testing" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Introduction%20to%20Power%20BI-F2C811?style=plastic&logo=power%20bi&logoColor=black" alt="Introduction to Power BI" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Introduction%20to%20Programming-007ACC?style=plastic&logo=visual%20studio%20code&logoColor=white" alt="Introduction to Programming" /></a>
-</p>
+I'm an **Agile IT Project Manager and Product Owner** with **15+ years** of cross-functional experience delivering software, multi-stakeholder programs and data-driven initiatives across the private sector, government and international organizations.
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+My edge is that I've sat in almost every seat of the delivery chain: I've **tested** products as a QA, **designed** flows and wireframes as a UX practitioner, **written code** as a programming graduate, and **led** teams and stakeholders as a PM. That lets me speak the language of developers, designers, clients and leadership — and turn ambiguity into a clear, traceable plan.
 
-<p align="center"> 
-  <a href="mailto:rocioac.qa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a> 
-  <a href="https://github.com/RocioAguirreC"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a> 
-  <a href="https://www.linkedin.com/in/rocio-aguirre-cerullo"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-</p>
+- 🚀 **Now:** Co-Founder & IT Project Manager at **[Soulware](https://soulware.com.ar/)**, a software agency focused on agile delivery, cybersecurity, traceability and architecture.
+- 🎓 **Learning:** B.S. in Organizational Technology Management at **Universidad Nacional de Cuyo** (2026–2028).
+- 🌍 **Impact:** Former **United Nations Volunteer**; passionate about GovTech, HealthTech, EdTech and tech for social good.
+- 🤖 **Exploring:** AI and automation to remove operational friction from product teams.
+- 💬 **Ask me about:** discovery, backlog shaping, Scrum/Kanban, QA strategy, stakeholder management.
 
-## My Skills 
+---
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Programming languages
+## 🛠️ What I bring to a team
 
-<p align="center"> 
-  &emsp; <a href="https://www.python.org" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white"> </a> 
-  &emsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"> </a> 
-  &emsp; <a href="https://www.w3schools.com/cpp/" target="_blank"> <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"> </a>
-</p> 
+| | Area | What it looks like in practice |
+|:-:|---|---|
+| 📋 | **Project & Delivery Management** | Sprint planning, milestone tracking, risk management, resource allocation, end-to-end traceability |
+| 🎯 | **Product Ownership & Discovery** | Client discovery sessions, scope definition, requirements & user stories, backlog prioritization |
+| 🧪 | **Quality Assurance** | Test strategy, exploratory & test-case execution on web/mobile, bug reporting and triage (4+ years at uTest) |
+| 🎨 | **UX / UI** | User journeys, workflows, wireframes, prototyping and usability testing for accessible solutions |
+| 📝 | **Technical Writing & Documentation** | Specs, discovery reports, technical reports, compliance and process documentation |
+| 🤝 | **Stakeholder Management** | Multi-agency and public-private coordination, executive reporting, workshops and training |
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Software & Tools 
+---
 
-<p align="center"> 
-  &emsp; <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a> 
-  &emsp; <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a> 
-  &emsp; <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="Software Testing" src="https://img.shields.io/badge/Software%20Testing-43B02A?style=plastic&logo=appveyor&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="Scrum" src="https://img.shields.io/badge/Scrum-007ACC?style=plastic&logo=scrumalliance&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="MS Excel" src="https://img.shields.io/badge/MS%20Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="Data Collection" src="https://img.shields.io/badge/Data%20Collection-4FC3F7?style=plastic&logo=microsoftazure&logoColor=black"></a>
-  &emsp; <a href="#"><img alt="Market Research" src="https://img.shields.io/badge/Market%20Research-0077B5?style=plastic&logo=marketresearch&logoColor=white"></a>
-  &emsp; <a href="#"><img alt="Information Synthesis" src="https://img.shields.io/badge/Information%20Synthesis-607D8B?style=plastic&logo=analytico&logoColor=white"></a>
-</p> 
+## ⭐ Featured project
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> </picture> Operating Systems 
+<table>
+<tr>
+<td width="100%">
 
-<p align="center"> 
-  &emsp; <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a> 
-  &emsp; <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-</p> 
+### 🧩 Soulware — Software Agency · *Co-Founder & IT Project Manager*
 
-<br> 
+Custom, scalable and secure software built with an agile, quality-first approach.
 
---- 
+- Lead cross-functional dev teams with **Scrum/Kanban**, short cycles and **full project traceability**.
+- Own the **end-to-end QA and testing strategy** to ensure stable, seamless releases.
+- Run **client discovery**, scope definition and stakeholder communication.
+- Integrate **AI / automation tools** into operational workflows.
 
-<p align = "center"> 
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"> 
-    <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"> 
-  </a> 
-</p>
+<a href="https://soulware.com.ar/"><img src="https://img.shields.io/badge/Visit-Soulware-6E40C9?style=flat-square&logo=googlechrome&logoColor=white" alt="Soulware website" /></a>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats 
+</td>
+</tr>
+</table>
 
-<details><summary><h3> Streak Stats</h3></summary>
----- 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RocioAguirreC&theme=tokyonight_duo" alt="GitHub Streak Stats" />
-</p> 
-</details> 
+---
 
-<details><summary><h3> GitHub Profile Stats</h3></summary> 
----- 
-<p align="center"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img alt="RocioAguirreC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RocioAguirreC&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  </a> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RocioAguirreC&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Top Languages" height="230px"/> 
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. 
-</p>
-</details> 
+## 💼 Experience highlights
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary> 
----- 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RocioAguirreC&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a> 
-</p>
-[![@RocioAguirreC's Holopin board](https://holopin.io/api/user/board?user=RocioAguirreC)](https://holopin.io/@RocioAguirreC)
-</details> 
+| Role | Organization | Period |
+|---|---|---|
+| **Co-Founder & IT Project Manager** | Soulware | 2026 – Present |
+| **Project Management & Communications Lead** (Internship) | Alpha Docere · R&D lab, Chile (remote) | 2025 – 2026 |
+| **United Nations Volunteer** — labor market research | United Nations | 2025 |
+| **Software QA Tester** (freelance) | uTest | 2021 – 2026 |
+| **Operations & Field Interventions Coordinator** | Provincial Government of Chaco | 2024 – 2026 |
+| **Senior Field & Program Specialist** | Provincial Government of Chaco | 2019 – 2023 |
+| **Social Program & Event Operations Lead** | Provincial Government of Chaco | 2015 – 2018 |
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary> 
----- 
-<div> 
-  <p align="center"> 
-    <a href="https://github.com/PowerSystem2024/CodigoEnigma_CuartoSemestre"> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PowerSystem2024&repo=CodigoEnigma_CuartoSemestre&theme=tokyonight" alt="CodigoEnigma_CuartoSemestre" /> 
-    </a>
-    <a href="https://github.com/PowerSystem2024/CodigoEnigma-ProyectoIntegradorJava"> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PowerSystem2024&repo=CodigoEnigma-ProyectoIntegradorJava&theme=tokyonight" alt="CodigoEnigma-ProyectoIntegradorJava" /> 
-    </a>
-    <a href="https://github.com/PowerSystem2024/CodigoEnigma-ProyectoIntegradorPython"> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PowerSystem2024&repo=CodigoEnigma-ProyectoIntegradorPython&theme=tokyonight" alt="CodigoEnigma-ProyectoIntegradorPython" /> 
-    </a>
-    <a href="https://github.com/PowerSystem2024/CodigoEnigmaTercerSemestre"> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PowerSystem2024&repo=CodigoEnigmaTercerSemestre&theme=tokyonight" alt="CodigoEnigmaTercerSemestre" /> 
-    </a>
-  </p> 
-</div> 
+<sub>Full history on <a href="https://www.linkedin.com/in/rocio-aguirre-cerullo/">LinkedIn</a>.</sub>
+
+---
+
+## 🧰 Toolbox
+
+**Delivery & Product**
+
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0079BF?style=flat-square&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Quality Assurance**
+
+![Manual Testing](https://img.shields.io/badge/Manual_%26_Exploratory_Testing-43B02A?style=flat-square&logo=testinglibrary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Bug Tracking](https://img.shields.io/badge/Bug_Reporting-D73A49?style=flat-square&logo=bugsnag&logoColor=white)
+
+**Development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🎓 Education & certifications
+
+**Education**
+
+- 🎓 **B.S. in Organizational Technology Management** — Universidad Nacional de Cuyo · *2026 – 2028 (in progress)*
+- 🎓 **Associate Degree in Software Programming** (Técnico Universitario en Programación) — UTN FR San Rafael · *2024 – 2026*
+- 🎓 **Higher National Diploma in Business Administration** — I.E.S. N°51 · *2016 – 2019*
+
+<details>
+<summary><b>📜 Certifications & courses (click to expand)</b></summary>
+<br>
+
+| Certification | Issuer | Year |
+|---|---|:-:|
+| Foundations of Project Management | Google · Coursera | 2026 |
+| Project Initiation: Starting a Successful Project | Google · Coursera | 2026 |
+| AI Fundamentals | Google · Coursera | 2026 |
+| AI for Brainstorming and Planning | Google · Coursera | 2026 |
+| Essentials of Children's Rights | UNICEF | 2026 |
+| IELTS General Training — CEFR B2 | British Council | 2023 |
+| Postman API Fundamentals Student Expert | Postman | 2023 |
+| Testing and Software QA | QArmy | 2023 |
+| Introduction to Power BI | Datapath | 2023 |
+| Scrum Fundamentals Certified (SFC) | SCRUMstudy | 2022 |
+| Introduction to Cybersecurity | Cisco Networking Academy | 2022 |
+| Software Testing From Scratch | Udemy | 2022 |
+| Testing | Informatorio Chaco | 2022 |
+| Web Development: Python, Django & SQL Server | Informatorio Chaco | 2021 |
+| Introduction to Programming | Informatorio Chaco | 2021 |
+
 </details>
 
-<br>
-<br>
+**Languages:** 🇪🇸 Spanish (native) · 🇬🇧 English (C1)
 
+---
+
+## 📊 GitHub activity
+
+<details>
+<summary><b>Show stats</b></summary>
+<br>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RocioAguirreC&show_icons=true&count_private=true&hide_border=true&theme=default&title_color=2F80ED&icon_color=2F80ED" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RocioAguirreC&layout=compact&hide_border=true&theme=default&title_color=2F80ED" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=RocioAguirreC&hide_border=true&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub streak" />
+
+</div>
+</details>
+
+---
+
+<a name="-en-español"></a>
+<details>
+<summary><h2>🇦🇷 En español</h2></summary>
+
+### 🧭 Sobre mí
+
+Soy **Project Manager IT y Product Owner** con **más de 15 años** de experiencia transversal liderando proyectos de software, programas con múltiples actores e iniciativas basadas en datos, en el sector privado, el sector público y organismos internacionales.
+
+Mi diferencial es haber pasado por casi todos los roles de la cadena de entrega: hice **testing** como QA, **diseñé** flujos y wireframes desde UX, **programé** como técnica universitaria y **lideré** equipos y stakeholders como PM. Eso me permite hablar el idioma de desarrolladores, diseñadores, clientes y dirección, y convertir la ambigüedad en un plan claro y trazable.
+
+- 🚀 **Hoy:** Co-Founder & IT Project Manager en **[Soulware](https://soulware.com.ar/)**, agencia de software enfocada en metodología ágil, ciberseguridad, trazabilidad y arquitectura.
+- 🎓 **Estudiando:** Licenciatura en Gestión Tecnológica de las Organizaciones en la **Universidad Nacional de Cuyo**.
+- 🌍 **Impacto:** Ex **Voluntaria de Naciones Unidas**; me apasiona la tecnología aplicada a GovTech, HealthTech, EdTech e impacto social.
+- 🤖 **Explorando:** IA y automatización para reducir la fricción operativa de los equipos de producto.
+- 💼 **Abierta a:** posiciones de **Project Manager / Product Owner** (remoto o híbrido).
+
+### 🛠️ Qué aporto
+
+- 📋 **Gestión de proyectos:** planificación de sprints, seguimiento de hitos, gestión de riesgos y trazabilidad de punta a punta.
+- 🎯 **Producto:** discovery con clientes, definición de alcance, requerimientos e historias de usuario, priorización del backlog.
+- 🧪 **QA:** estrategia de testing, pruebas exploratorias y casos de prueba en web y mobile, reporte de bugs.
+- 🎨 **UX/UI:** user journeys, wireframes, prototipos y pruebas de usabilidad.
+- 📝 **Documentación técnica:** especificaciones, informes de discovery y reportes ejecutivos.
+
+📫 Escribime a **rocio.aguirre.cerullo@gmail.com** o conectemos en [LinkedIn](https://www.linkedin.com/in/rocio-aguirre-cerullo/).
+
+</details>
+
+<div align="center">
+<br>
+<img src="https://komarev.com/ghpvc/?username=RocioAguirreC&label=Profile%20views&color=2F80ED&style=flat-square" alt="Profile views" />
+</div>
